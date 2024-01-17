@@ -66,6 +66,12 @@ Tacking this functionality onto the current system would be difficult and messy 
 
 ## Software Architecture & Codebase
 
+Clone the following repo to your machine: 
+https://github.com/vagabond-systems/forage-lyft-starter-repo
+
+A step-by-step instruction on how to do this is outlined here on GitHub: 
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
 The repo you just cloned contains the core functionality of the fleet service component referenced above.
 
 In order to come up with a better design, you must first fully comprehend the current state of the codebase. Spend some time reading through each file and figuring out how things are organized.
