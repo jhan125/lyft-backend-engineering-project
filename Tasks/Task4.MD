@@ -44,4 +44,4 @@ TDD is a classic approach, and even if you don’t strictly adhere to the admitt
 
 - Octoprime tires should be serviced only when the sum of all values in the tire wear array is greater than or equal to 3.
 
-- hink carefully about the cleanest way to implement the new tire service criteria, then modify the system to complete the change.
+- Think carefully about the cleanest way to implement the new tire service criteria, then modify the system to complete the change.
