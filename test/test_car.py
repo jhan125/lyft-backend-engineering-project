@@ -1,6 +1,8 @@
 import unittest
 from datetime import datetime
 
+import sys
+sys.path.append('/Users/jhan125/lyft-backend/lyft-backend-engineering-project')
 from models.calliope import Calliope
 from models.glissade import Glissade
 from models.palindrome import Palindrome
